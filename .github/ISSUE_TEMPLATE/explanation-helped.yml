@@ -31,3 +31,15 @@ body:
     id: did_right
     attributes:
       label: What did devclean do right?
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Maintainer note
+
+        These templates intentionally avoid feature-request framing.
+
+        We prioritize:
+        1. Real hesitation and fear of deletion
+        2. Incorrect or missing detection rules
+        3. Explanations that fail to build trust

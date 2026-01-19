@@ -165,3 +165,9 @@ TBD
 ---
 
 > devclean is an attempt to reduce *fear-driven disk usage* in development environments.
+
+---
+
+## IMPORTANT
+
+This tool analyzes only. It never deletes files.

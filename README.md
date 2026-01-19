@@ -135,6 +135,10 @@ A suggestion you understand is better than an action you regret.
 * APIs, rules, and output formats are **not stable**.
 * Feedback is far more valuable than code contributions at this stage.
 
+## Change log
+
+[CHANGELOG.md](CHANGELOG.md)
+
 ---
 
 ## Feedback wanted

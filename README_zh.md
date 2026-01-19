@@ -135,6 +135,10 @@ $ devclean scan .
 * API、规则和输出格式**不稳定**。
 * 在这个阶段，反馈比代码贡献更有价值。
 
+## 变更日志
+
+[CHANGELOG_zh.md](CHANGELOG_zh.md)
+
 ---
 
 ## 期待反馈

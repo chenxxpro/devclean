@@ -1,5 +1,7 @@
 # devclean
 
+[中文文档](README_zh.md) | [English](README.md)
+
 > A safe, explainable development directory analyzer.
 >
 > **devclean does not delete anything.**

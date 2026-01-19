@@ -1,5 +1,7 @@
 # devclean
 
+[中文文档](README_zh.md) | [English](README.md)
+
 > 一个安全、可解释的开发目录分析器。
 >
 > **devclean 不会删除任何内容。**
